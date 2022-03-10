@@ -4,6 +4,7 @@ $$$$testing4$$$$$$$$$$$
 @@@@testing5@@@@@@@
 ####6thchange#####
 ####7thchange%%%%
+@@@@8thijdinnfjefn
 # eb-tomcat-snakes
 Tomcat application that shows the use of RDS in a Java EE web application in AWS Elastic Beanstalk. The project shows the use of Servlets, JSPs, Simple Tag Support, Tag Files, JDBC, SQL, Log4J, Bootstrap, Jackson, and Elastic Beanstalk configuration files.
 
